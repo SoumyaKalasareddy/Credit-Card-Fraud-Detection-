@@ -10,9 +10,8 @@ Anomaly detection methods,
 Visualization of transaction patterns
 
 Technologies Used:
-Python
-Pandas, NumPy
-Matplotlib, Seaborn,
+Python,
+Pandas, Seaborn,
 Jupyter Notebook
 
 Dataset: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
