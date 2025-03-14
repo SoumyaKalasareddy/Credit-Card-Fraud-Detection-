@@ -12,7 +12,7 @@ Visualization of transaction patterns
 Technologies Used:
 Python
 Pandas, NumPy
-Matplotlib, Seaborn
+Matplotlib, Seaborn,
 Jupyter Notebook
 
 Dataset: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
