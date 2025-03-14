@@ -14,3 +14,5 @@ Python
 Pandas, NumPy
 Matplotlib, Seaborn
 Jupyter Notebook
+
+Dataset: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
